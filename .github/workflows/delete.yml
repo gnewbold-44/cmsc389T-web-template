@@ -1,9 +1,9 @@
-name: Update workflow
+name: Delete workflow
 on: 
   workflow_dispatch:   
 jobs:
   job_one:
-    name: Update
+    name: Delete
     runs-on: ubuntu-latest
     steps:
       - name: testing
