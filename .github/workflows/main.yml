@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: testing
-        uses: gnewbold-44/ssh-action@master
+        uses: git@github.com:gnewbold-44/cmsc389T-web-template.git
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
