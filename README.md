@@ -7,4 +7,5 @@ Added a description about myself
 Added a profile picture 
 Introudced myself
 Added an interest section
-Linked y github, and linkdin
+Linked my github, and linkdin
+I also wrote my GitHub username on the screen 
